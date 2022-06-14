@@ -1,0 +1,12 @@
+D:\Vs2019Task\BigTaskTest01\BigTaskTest01\obj\Debug\BigTaskTest01.csproj.AssemblyReference.cache
+D:\Vs2019Task\BigTaskTest01\BigTaskTest01\obj\Debug\BigTaskTest01.Form1.resources
+D:\Vs2019Task\BigTaskTest01\BigTaskTest01\obj\Debug\BigTaskTest01.Properties.Resources.resources
+D:\Vs2019Task\BigTaskTest01\BigTaskTest01\obj\Debug\BigTaskTest01.csproj.GenerateResource.cache
+D:\Vs2019Task\BigTaskTest01\BigTaskTest01\obj\Debug\BigTaskTest01.csproj.CoreCompileInputs.cache
+D:\Vs2019Task\BigTaskTest01\BigTaskTest01\bin\Debug\BigTaskTest01.exe.config
+D:\Vs2019Task\BigTaskTest01\BigTaskTest01\bin\Debug\BigTaskTest01.exe
+D:\Vs2019Task\BigTaskTest01\BigTaskTest01\bin\Debug\BigTaskTest01.pdb
+D:\Vs2019Task\BigTaskTest01\BigTaskTest01\obj\Debug\BigTaskTest01.exe
+D:\Vs2019Task\BigTaskTest01\BigTaskTest01\obj\Debug\BigTaskTest01.pdb
+D:\Vs2019Task\BigTaskTest01\BigTaskTest01\obj\Debug\BigTaskTest01.Choices.resources
+D:\Vs2019Task\BigTaskTest01\BigTaskTest01\obj\Debug\BigTaskTest01.Form3.resources
