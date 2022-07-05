@@ -10,3 +10,5 @@ D:\Vs2019Task\BigTaskTest01\BigTaskTest01\obj\Debug\BigTaskTest01.exe
 D:\Vs2019Task\BigTaskTest01\BigTaskTest01\obj\Debug\BigTaskTest01.pdb
 D:\Vs2019Task\BigTaskTest01\BigTaskTest01\obj\Debug\BigTaskTest01.Choices.resources
 D:\Vs2019Task\BigTaskTest01\BigTaskTest01\obj\Debug\BigTaskTest01.Form3.resources
+D:\Vs2019Task\BigTaskTest01\BigTaskTest01\obj\Debug\BigTaskTest01.LoginSql_Version.resources
+D:\Vs2019Task\BigTaskTest01\BigTaskTest01\obj\Debug\BigTaskTest01.Landing_mode.resources
