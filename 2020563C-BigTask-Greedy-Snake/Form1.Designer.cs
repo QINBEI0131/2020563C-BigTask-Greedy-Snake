@@ -33,6 +33,7 @@ namespace BigTaskTest01
             this.gamepanel = new System.Windows.Forms.Panel();
             this.label1 = new System.Windows.Forms.Label();
             this.labScore = new System.Windows.Forms.Label();
+            this.btnchoose = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnbegin
@@ -69,17 +70,31 @@ namespace BigTaskTest01
             // labScore
             // 
             this.labScore.AutoSize = true;
-            this.labScore.Location = new System.Drawing.Point(278, 35);
+            this.labScore.Location = new System.Drawing.Point(248, 30);
             this.labScore.Name = "labScore";
             this.labScore.Size = new System.Drawing.Size(63, 15);
             this.labScore.TabIndex = 4;
             this.labScore.Text = "Score:0";
+            // 
+            // btnchoose
+            // 
+            this.btnchoose.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
+            this.btnchoose.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnchoose.ForeColor = System.Drawing.SystemColors.ActiveCaption;
+            this.btnchoose.Location = new System.Drawing.Point(429, 24);
+            this.btnchoose.Name = "btnchoose";
+            this.btnchoose.Size = new System.Drawing.Size(105, 27);
+            this.btnchoose.TabIndex = 5;
+            this.btnchoose.Text = "难度重选";
+            this.btnchoose.UseVisualStyleBackColor = false;
+            this.btnchoose.Click += new System.EventHandler(this.btnchoose_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(586, 578);
+            this.Controls.Add(this.btnchoose);
             this.Controls.Add(this.labScore);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.gamepanel);
@@ -98,6 +113,7 @@ namespace BigTaskTest01
         private System.Windows.Forms.Panel gamepanel;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label labScore;
+        private System.Windows.Forms.Button btnchoose;
     }
 }
 

@@ -73,6 +73,18 @@
       <DependentUpon>Form3.cs</DependentUpon>
     </Compile>
     <Compile Include="GameController.cs" />
+    <Compile Include="Landing mode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Landing mode.Designer.cs">
+      <DependentUpon>Landing mode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginSql-Version.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginSql-Version.Designer.cs">
+      <DependentUpon>LoginSql-Version.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
@@ -83,6 +95,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form3.resx">
       <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Landing mode.resx">
+      <DependentUpon>Landing mode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginSql-Version.resx">
+      <DependentUpon>LoginSql-Version.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

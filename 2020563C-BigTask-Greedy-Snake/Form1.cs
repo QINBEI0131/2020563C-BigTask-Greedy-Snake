@@ -51,9 +51,14 @@ namespace BigTaskTest01
       public void ShowScore()
         {
             labScore.Text = "Score:"+ToolHelp.Score;
-        }        
-        
+        }
 
+        private void btnchoose_Click(object sender, EventArgs e)
+        {
+            Choices choices = new Choices();
+            choices.Show();
+            this.Close();
+        }
     }
 }
    
